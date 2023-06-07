@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\Ayubo Drive.exe.config
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\Ayubo Drive.exe
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\bin\Debug\Ayubo Drive.pdb
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo Drive.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo Drive.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo_Drive.Form1.resources
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo_Drive.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo Drive.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo Drive.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo Drive.exe
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo Drive.pdb
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo_Drive.Form2.resources
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo_Drive.rentcalculation.resources
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo_Drive.Form3.resources
+C:\Users\ADMIN\source\repos\Ayubo Drive\Ayubo Drive\obj\Debug\Ayubo_Drive.longtour.resources
